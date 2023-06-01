@@ -11,6 +11,8 @@ Run these commands:
 
 `npm install`
 
+Run npm install -g npm@9.6.7 to update
+
 `node app.js`
 
 or Run by docker compose
