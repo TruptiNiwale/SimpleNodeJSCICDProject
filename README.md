@@ -19,3 +19,4 @@ or Run by docker compose
 
 test
 
+http://13.49.68.242:8000/todo to run the application
